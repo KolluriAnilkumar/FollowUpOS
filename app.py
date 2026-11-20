@@ -75,7 +75,7 @@ if not st.session_state.authenticated:
     )
 
     if st.button("Login"):
-        if owner_password == "***REMOVED***":
+        if owner_password == st.secrets["OWNER_PASSWORD"]:
             st.session_state.authenticated = True
             st.success("Login successful!")
             st.rerun()
