@@ -1,5 +1,9 @@
 # FollowUpOS – Invoice Data Processing & Follow-up Priority Dashboard
 
+## 🚀 Live Demo
+
+[Open FollowUpOS Dashboard](https://followupos-dashboard.streamlit.app/)
+
 FollowUpOS is a Python-based invoice data processing and follow-up priority dashboard developed for a wholesale business case study, **Deccan Wholesale Mart, Hyderabad**.
 
 The application helps organize invoice records, identify outstanding payments, prioritize customer follow-ups, and generate useful business reports through an interactive Streamlit dashboard.
